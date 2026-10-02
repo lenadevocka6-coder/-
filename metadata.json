@@ -1,0 +1,7 @@
+{
+  "name": "Material Launcher",
+  "description": "Clean Material Design 2 Android launcher (Android 8-11 style) with Pixel search, At a Glance widget, custom icon shapes, gestures, and deep personalization.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
